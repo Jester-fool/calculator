@@ -72,3 +72,7 @@ html, body {
     min-width: 48px;
     height: 48px;
 }
+
+.dropdown{
+    margin-right: 25px;
+}
